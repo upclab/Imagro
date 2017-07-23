@@ -4,7 +4,7 @@
 
 ---
 
-## ¿Qúe hace Imagro?
+## ¿Qué hace Imagro?
 **Imagro** es una aplicación escrita en c++, que hace uso del algoritmo de ecualización para **mejorar** una imagen, este algoritmo puede mejorar notablemente problemas visuales como:
 - Contra luz
 - Desenfoques lineares
