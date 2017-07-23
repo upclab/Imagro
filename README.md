@@ -27,6 +27,9 @@
 - Mario Vega
 - Percy Briceño
 
+## Descargas
+- [Presentación(.pptx)](https://github.com/upclab/Imagro/releases/download/v1.0.0/Presentacion.pptx)
+
 ## SOBRE UPC LAB Y UPC GAMES
 > En [UPC Lab](https://github.com/upclab) somos un grupo de  de gente apasionada por la tecnología, que nos gusta desarrollar aplicaciones de todo tipo.
 > También ayudamos y hacemos aplicaciones, si quieres más información escribe a: <upclabperu@gmail.com>.
