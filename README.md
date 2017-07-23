@@ -13,6 +13,12 @@
 - Zonas Oscuras
 - Zonas Quemadas
 
+## Ejemplos
+![Imagro](https://user-images.githubusercontent.com/9372893/28496837-f9587a96-6f3a-11e7-9063-bb0963451871.PNG "Imagro")
+![Imagro](https://user-images.githubusercontent.com/9372893/28496835-f94c0ba8-6f3a-11e7-88ff-90abeb800dab.PNG "Imagro")
+
+[Ver más...](https://github.com/upclab/Imagro/issues/1)
+
 ## Creadores
 
 - Manuel Figueroa
