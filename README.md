@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/upclab/Imagro/master/Imagro/LogoMedium.png">
+</div>
+
 ---
 
 ## ¿Qúe hace Imagro?
